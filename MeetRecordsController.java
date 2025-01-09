@@ -97,6 +97,8 @@ public class MeetRecordsController {
         if (meetingSafe != null) {
             fileService.insertFileRelation(13, meetingSafe.getId(), 10131, fileuuid);
             return 1;
+        }else{
+            //bug
         }
 
         return result;
