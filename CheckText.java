@@ -4,6 +4,8 @@ class CheckText{
     return "";
   }
 
-  
+  private String modify(){
+    return "";
+  }
 
 }
