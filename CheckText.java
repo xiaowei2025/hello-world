@@ -8,4 +8,7 @@ class CheckText{
     return "";
   }
 
+  private int checkName(){
+    return 0;
+  }
 }
