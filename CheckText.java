@@ -5,7 +5,10 @@ class CheckText{
   }
 
   private String modify(){
-    return "";
+    return "modify"
   }
 
+  private int checkName(){
+    return 0;
+  }
 }
